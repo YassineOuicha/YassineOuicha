@@ -71,4 +71,4 @@ If you have an exciting idea, let’s connect! 🚀
 
 ---
 
-⚡ **Fun fact**: I have worked on embedded systems for **BMW** and automation tools for **industrial refrigeration**! 😄  
+⚡ **Fun fact**: I have worked on embedded systems for **BMW** and automation tools for **industrial refrigeration**, applying both engineering and software development expertise!
