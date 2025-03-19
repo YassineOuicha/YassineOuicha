@@ -54,7 +54,7 @@ With a background in **R&D engineering** and **software development**, I love so
 
 ---
 
-## 💞️ Open to Collaboration : 
+## 🤝 Open to Collaboration & Opportunities :
 
 I am actively **looking for new opportunities** in **web development or back-end engineering**  
 to **enhance my skills, unleash my full potential, and contribute to impactful projects**.  
