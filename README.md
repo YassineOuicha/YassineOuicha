@@ -1,74 +1,89 @@
-# 👋 Hi, I'm Yassine Ouicha Hammou
+# 👨💻 Yassine Ouicha Hammou  
+**Ingénieur Développeur Java Full Stack**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassine-ouicha-hammou/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YassineOuicha)
 
-💻 Java Full Stack Developer | Passionate about Web Development & Automation  
-
----
-
-## 🚀 About Me : 
-
-I am a **Java Full Stack Developer** with expertise in **Spring Boot** and **Angular**.  
-Currently enrolled in a **Java Application Developer program at OpenClassrooms**, I work on real-world projects involving secure REST APIs, SQL/NoSQL databases, and interactive user interfaces.  
-
-With a background in **R&D engineering** and **software development**, I love solving complex problems and building high-performance solutions.  
+🚀 Développeur passionné avec **4+ ans d'expérience** dans le développement d'applications métier en **Java** et **C#**. Spécialisé dans les architectures microservices (Spring Boot), les API REST et les solutions DevOps. Toujours à la recherche de défis techniques innovants !
 
 ---
 
-## 🔧 Technical Skills :
-
-**Back-end**  
-- Java, Spring Boot, REST API, JUnit, JPA  
-- Spring Security, OAuth2, JWT  
-- Hibernate, MySQL, PostgreSQL, MongoDB  
-
-**Front-end**  
-- Angular, TypeScript, JavaScript  
-- HTML5, CSS3, SCSS, Bootstrap  
-
-**DevOps & Tools**  
-- Git, GitHub, GitLab, Docker, Postman  
-- CI/CD, Heroku  
-
-**Other**  
-- C#, Python, VBA  
-- DriveWorks, Automation, Matlab Simulink, CANape
-- AutoCad, SolidWorks, Catia V5/V6, Ansys Workbench, Fluent, SpaceClaim
-- KeyShot, Granta Design
-- And many more!
+## 🛠 Compétences Techniques  
+**Front-end**: Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS, Bootstrap  
+**Back-end**: Java, Spring Boot, REST API, **C#**, Python, JUnit, Mockito, DriveWorks  
+**Bases de données**: SQL, MySQL, PostgreSQL, MongoDB, Hibernate  
+**DevOps & Outils**: Docker, Jenkins, Git, GitHub, Postman, Heroku  
+**Gestion de projet**: Jira, Scrum, Kanban, Notion, Trello  
 
 ---
 
-## 📚 Certifications : 
+## 💼 Expériences Professionnelles  
 
-- [Responsive Web Design](https://www.freecodecamp.org/certification/YassineOuicha/responsive-web-design)  
-- [Java Programming](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2d5ba85a-0bfb-40b0-a593-e8ca0353716e.pdf)  
-- [Java Full Stack](https://udemy-certificate.s3.amazonaws.com/pdf/UC-46bd8e8c-f6cf-4242-820f-a29d6193daaa.pdf)  
-- [Project Management](https://www.udemy.com/certificate/UC-d63ce977-15ed-4018-8564-edab3e5f6f80/)  
-
----
-
-## 🌱 Currently Learning : 
-
-- Software architecture & best practices (SOLID, Clean Code)  
-- Building **collaborative applications** with WebSocket  
-- Performance optimization in **Angular & Spring Boot**  
+### **Projets Clients ** (01/2025 – 05/2025)  
+_Développeur Java Full Stack • Secteurs divers_  
+- **Solution médicale** : solution en microservices pour évaluer le risque de diabète type 2 chez les patients et gérer leurs historique médicale. 
+- **Application de voyage** : optimisation des performances pour gérér les demandes de 100k+ utilisateurs en moins de 15 minutes (au lieu de plusieurs jours).  
+- **Transfert d’argent sécurisé** : application avec interface web pour la gestion de son budget et payer ses amis. 
+- **API pour services de secours** : développement d'une API REST fournissant aux services de secours des informations sur la localisation et l'état des personnes en détresse.
 
 ---
 
-## 🤝 Open to Collaboration & Opportunities :
+### **FromFroid** (CDI • Lille / Boulogne-sur-Mer • 01/2021 – 12/2024)  
+_Développeur Full Stack • C# & Java • Solutions industrielles_  
+- Développement d’applications en C# ciblant l’automatisation de la configuration produit, intégrant l’API DriveWorks pour générer des
+modèles 3D et la documentation technique (plans 2D, devis, rapports).
+- Mise en place d’algorithmes et processus pour automatiser les calculs thermodynamiques et la configuration de produits à forte variabilité.
+- Développement d’IHM interactives, assurant une configuration produit intuitive et une gestion optimisée des données techniques.
+- Coordination technique des projets de développement logiciel dans un environnement industriel. 
+---
 
-I am actively **looking for new opportunities** in **web development or back-end engineering** to **enhance my skills, unleash my full potential, and contribute to impactful projects**.  
-
-I'm always open to collaborating on **open-source projects**, **innovative web applications**, or **DevOps tools**.  
-If you have an exciting idea, let’s connect! 🚀  
+### **Chéreau** (CDD • Avranches • 03/2020 - 12/2020)  
+_Ingénieur tests et validation | Semi-remorques frigorifiques_  
+- Conception et modélisation numérique des semi-remorques frigorifiques.
+- Création d'outils d'analyse de données pour la corrélation calculs/mesures.
+- Développement d'interfaces de visualisation pour présenter les résultats.
+- Optimisation d'un concept de semi-remorque "Autoportante" avant la mise en prototypage pour orienter les choix de conception en amont.
 
 ---
 
-## 📫 Contact Me :
-
-📧 Email: [yassineouichahammou@gmail.com](mailto:yassineouichahammou@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yassine-ouicha-hammou/)  
-🐙 [GitHub](https://github.com/YassineOuicha)  
+### **BMW Group** (Stage • Munich • 09/2018 – 02/2019)  
+_Développeur Logiciel Embarqué • CANape/Matlab/Simulink_  
+- Développement et test de fonctionnalités pour le système d'aide à la conduite “Park Assist Pilot” en environnement CANape/Matlab/Simulink.
+- Identification, analyse et correction de bugs sur le système, au niveau du software et du hardware dans une démarche d’amélioration continue.
 
 ---
 
-⚡ **Fun fact**: I have worked on embedded systems for **BMW** and automation tools for **industrial refrigeration**, applying both engineering and software development expertise!
+## 🚀 Projets Clés  
+- **Détection du risque de diabète type 2 (Java/Spring Boot)**  
+  Développement d'une solution microservices pour un laboratoire médical afin d'évaluer le risque de diabète chez les patients.  
+
+- **Optimisation d'application de voyage (Java/Angular)**  
+  Amélioration des performances pour gérer 100 000+ demandes utilisateurs en moins de 15 minutes.  
+
+- **Plateforme de transfert d'argent (Java/Angular)**  
+  Interface web sécurisée permettant de gérer son budget, transférer de l'argent et payer ses contacts.  
+
+- **API REST pour services de secours (Java/Spring Boot)**  
+  Système fournissant en temps réel la localisation et l'état des personnes en détresse.  
+
+- **Park'it (Java/Spring Boot)**  
+  Application de gestion de parking automatisée avec calcul de tarifs en temps réel.  
+
+- **Automatisation industrielle (C#/DriveWorks)**  
+  Applications pour la configuration automatisée de produits frigorifiques via l'API DriveWorks (modèles 3D, documentation technique).
+  
+---
+
+## 📚 Formations  
+- **OpenClassrooms** (2025) : Développeur d’applications Java  
+- **Certifications** (2024–2025) : Java Full Stack (Spring & Angular), Responsive Web Design  
+- **ISAE Supméca Paris** (2017–2020) : Ingénieur en simulation numérique  
+
+---
+
+## 🌍 Langues  
+- Français : bilingue | Anglais : courant  
+- Arabe : bilingue | Tamazight : langue maternelle  
+
+---
+
+✨ **Collaboration ?** Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/yassine-ouicha-hammou/) ou explorez mes projets [ici](https://github.com/YassineOuicha) !
