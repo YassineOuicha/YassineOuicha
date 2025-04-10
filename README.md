@@ -6,15 +6,6 @@
 
 ---
 
-## 🛠 Compétences Techniques  
-**Front-end**: Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS, Bootstrap  
-**Back-end**: Java, Spring Boot, REST API, **C#**, Python, JUnit, Mockito, DriveWorks  
-**Bases de données**: SQL, MySQL, PostgreSQL, MongoDB, Hibernate  
-**DevOps & Outils**: Docker, Jenkins, Git, GitHub, Postman, Heroku  
-**Gestion de projet**: Jira, Scrum, Kanban, Notion, Trello  
-
----
-
 ## 💼 Expériences Professionnelles  
 
 ### **Projets Clients ** (01/2025 – 05/2025)  
@@ -69,7 +60,16 @@ _Développeur Logiciel Embarqué • CANape/Matlab/Simulink_
 
 - **Automatisation industrielle (C#/DriveWorks)**  
   Applications pour la configuration automatisée de produits frigorifiques via l'API DriveWorks (modèles 3D, documentation technique).
-  
+
+---
+
+## 🛠 Compétences Techniques  
+**Front-end**: Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS, Bootstrap  
+**Back-end**: Java, Spring Boot, REST API, **C#**, Python, JUnit, Mockito, DriveWorks  
+**Bases de données**: SQL, MySQL, PostgreSQL, MongoDB, Hibernate  
+**DevOps & Outils**: Docker, Jenkins, Git, GitHub, Postman, Heroku  
+**Gestion de projet**: Jira, Scrum, Kanban, Notion, Trello  
+
 ---
 
 ## 📚 Formations  
