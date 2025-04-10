@@ -1,6 +1,6 @@
 # 👨💻 Ingénieur Développeur Java Full Stack :
-🚀 Développeur passionné avec **4+ ans d'expérience** dans le développement d'applications métier en **Java** et **C#**. Spécialisé dans les architectures microservices (Spring Boot), les API REST et les solutions DevOps. Toujours à la recherche de défis techniques innovants !
-
+🚀 Développeur passionné avec **4+ ans d'expérience** dans le développement d'applications métier en **Java** et **C#**. Spécialisé dans les architectures microservices (Spring Boot), les API REST et les solutions DevOps. 
+🔍 Je souhaite rejoindre une équipe dynamique où je pourrai contribuer à des projets innovants et relever de nouveaux défis techniques.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yassine-ouicha-hammou/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YassineOuicha)
 
