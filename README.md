@@ -12,7 +12,7 @@
 _Développeur Java Full Stack • Secteurs divers_  
 - **Solution médicale** : solution en microservices pour évaluer le risque de diabète type 2 chez les patients et gérer leurs historique médicale. 
 - **Application de voyage** : optimisation des performances pour gérér les demandes de 100k+ utilisateurs en moins de 15 minutes (au lieu de plusieurs jours).  
-- **Transfert d’argent sécurisé** : application avec interface web pour la gestion de son budget et payer ses amis. 
+- **Transfert d’argent sécurisé** : application avec interface web pour la gestion de son budget et payer ses amis facilement.
 - **API pour services de secours** : développement d'une API REST fournissant aux services de secours des informations sur la localisation et l'état des personnes en détresse.
 
 ---
