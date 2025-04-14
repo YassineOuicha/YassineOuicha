@@ -67,8 +67,8 @@ _Développeur Logiciel Embarqué • CANape/Matlab/Simulink_
 ## 🛠 Compétences Techniques  
 **Front-end** : Angular, JavaScript, TypeScript, HTML5, CSS3, SCSS, Bootstrap  
 **Back-end** : Java, Spring Boot, REST API, **C#**, Python, JUnit, Mockito, DriveWorks  
-**Bases de données** : SQL, MySQL, PostgreSQL, MongoDB, Hibernate  
-**DevOps & Outils** : Docker, Jenkins, Git, GitHub, Github Actions, Postman, Heroku  
+**Bases de données** : MySQL, PostgreSQL, MongoDB, H2, Hibernate, JPA
+**DevOps & Outils** : Docker, Jenkins, Git/GitHub/GitLab, Postman, Xray, Squash
 **Gestion de projet** : Jira, Scrum, Kanban, Notion, Trello, Microsoft office 
 
 ---
