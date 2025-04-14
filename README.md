@@ -76,7 +76,7 @@ _Développeur Logiciel Embarqué • CANape/Matlab/Simulink_
 ## 📚 Formations  
 - **OpenClassrooms** (2025) : Développeur d’applications Java
 - **Argana Solutions** (2025) : Testeur QA - TechnicoFonctionnel
-- **Certifications** (2024–2025) : Java Full Stack (Spring & Angular), Responsive Web Design  
+- **Certifications** (2024–2025) : Java Full Stack (Spring & Angular)
 - **ISAE Supméca Paris** (2017–2020) : Ingénieur en simulation numérique  
 
 ---
