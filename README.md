@@ -9,7 +9,7 @@ Expert en bases de données SQL/NoSQL, en déploiement de pipelines CI/CD et en 
 
 **Frontend :**
 Angular | JavaScript | TypeScript
-HTML5 | CSS3 / Bootstrap
+HTML5 | CSS3 | Bootstrap
 
 **Backend :**
 Java | Spring boot
